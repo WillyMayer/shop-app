@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-style {
+    background-image: url('../src/assets/hero1.png');
+    height: 36rem;
+}
